@@ -7,5 +7,24 @@
 SELECT date(created_at) 
 FROM test
 ```
-2. window function으로 cumulative count reset
+2. cumulative count reset
 
+```sql
+WITH daily_total AS (
+    SELECT 
+        DATE(created_at) AS dt 
+       , COUNT(*) AS cnt
+    FROM test
+    GROUP BY 1
+)
+
+SELECT
+    t.dt AS date
+    , SUM(u.cnt) AS monthly_cumulative
+FROM daily_total AS t
+LEFT JOIN daily_total AS u
+    ON t.dt >= u.dt
+        AND strftime('%m', t.dt) = strftime('%m', u.dt)
+        AND strftime('%Y', t.dt) = strftime('%Y', u.dt)
+GROUP BY 1
+```
