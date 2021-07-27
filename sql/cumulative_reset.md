@@ -1,4 +1,5 @@
 https://www.interviewquery.com/questions/cumulative-reset?ref=question_email
+
 ![image](https://user-images.githubusercontent.com/73813367/127149730-0a4034ae-1039-4099-80eb-16df13547b4e.png)
 
 [sqlite db]
@@ -32,7 +33,8 @@ LEFT JOIN daily_total AS u
         AND strftime('%Y', t.dt) = strftime('%Y', u.dt)
 GROUP BY 1
 ```
-MY SQL의 경우
+
+[MY SQL의 경우]
 ```sql
  
 
