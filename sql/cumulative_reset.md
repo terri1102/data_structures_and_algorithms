@@ -15,6 +15,7 @@ FROM test
 2. cumulative count reset
 
 ```sql
+--임시 table (daily_total) 새로 만들기
 WITH daily_total AS (
     SELECT 
         DATE(created_at) AS dt 
@@ -23,6 +24,7 @@ WITH daily_total AS (
     GROUP BY 1
 )
 
+--daily_total 셀프 조인
 SELECT
     t.dt AS date
     , SUM(u.cnt) AS monthly_cumulative
