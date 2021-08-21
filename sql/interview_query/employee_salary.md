@@ -22,7 +22,7 @@ Given the tables above, select the top 3 departments with at least ten employees
 Example output:
 
 |percentage_over_100K|	department name|	number of employees |
-|---|---|
+|---|---|---|
 |.9	|engineering|	25|
 |.5|	marketing|	50|
 |.12|	sales|	12|
