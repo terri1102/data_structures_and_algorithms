@@ -11,7 +11,14 @@ from access_log;
 
 Hive, SparkSQL: parse_url 함수로 호스트 이름 추출
 ```sql
-select stamp, parse_url(referrer, 'HOST') AS refferer_host from access_log;
+select stamp, parse_url(referrer, 'HOST') AS referrer_host from access_log;
 ```
 
 BigQuery: host 함수 사용
+
+- URL에서 경로와 요청 매개변수 값 추출
+```sql
+select stamp, url, substring(url from '//[^/]+([^?#]+)') as path, 
+substring(url from 'id=([^&]*)') as id
+from access_log;
+```
