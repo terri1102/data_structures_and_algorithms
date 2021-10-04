@@ -8,3 +8,10 @@ stamp --referer의 호스트 이름 부분 추출
 ,substring(referrer from 'https?://([^/]*)') as referrer_host
 from access_log;
 ```
+
+Hive, SparkSQL: parse_url 함수로 호스트 이름 추출
+```sql
+select stamp, parse_url(referrer, 'HOST') AS refferer_host from access_log;
+```
+
+BigQuery: host 함수 사용
