@@ -1,4 +1,4 @@
 ## 문제표
-| index | 종류 | 문제이름 | url | 비고 |
+| Index | Type | Problem | Difficulty | Solution |
 |--|--|--|--|--|--|
-|1 | Array | Two Sum|https://leetcode.com/problems/two-sum/ | |
+|1 | Array | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | python |
