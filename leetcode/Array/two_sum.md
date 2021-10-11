@@ -14,3 +14,19 @@ class Solution:
 ```
 
 ## 책 풀이
+해시테이블을 이용해서 O(n)으로 풀었다. 근데 내 풀이도 O(n)인듯??
+```python
+def twosum(nums, target):
+    hashtable_dict = {}
+    
+    for i in range(0, len(nums)):
+        value = target - nums[i]
+        
+        if hashtable_dict.get(value) is not None and hashtable_dict[value] != i:
+            return sorted([i, hashtable_dict[value]])
+            
+            
+        hashtable_dict[nums[i]] = i
+        
+    return [-1, -1]
+```
