@@ -7,3 +7,15 @@
 - 코딩을 통합개발환경 도움 없이 화이트 보드나 종이에 연습
 - 시간/공간 복잡도를 고려
 - 어떤 테스트 케이스를 통과하는지에 대해 고려함
+
+## 정보올림피아드
+
+
+
+## Leetcode
+
+
+
+| Index | Type | Problem | Difficulty | Solution | Date | Remark |
+| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
+|   1   | Array |  [Two Sum](https://leetcode.com/problems/two-sum/)  |  Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/leetcode/Array/two_sum.md) | 2021.10.08 | |
