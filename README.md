@@ -28,4 +28,5 @@
 
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
 | :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
-|   1   | Greedy |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |  Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy1(%EC%B2%B4%EC%9C%A1%EB%B3%B5).md) | 2021.11.03 | |
+|   1   | Greedy |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) |  1 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy1(%EC%B2%B4%EC%9C%A1%EB%B3%B5).md) | 2021.11.03 | |
+|2| Greedy| [조이스틱]() | 1 | [Python]() | 2021.11.03| |
