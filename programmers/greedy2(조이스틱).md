@@ -21,6 +21,29 @@ ex) 완성해야 하는 이름이 세 글자면 AAA, 네 글자면 AAAA
 |"JAN" |	23 |
 
 ## 풀이
+min을 써서 굉장히 깔끔하게 풀었다.
+1) 문자열 조작
+2) 커서 조작
+```python
+def solution(name):
+    answer = 0
+    min_move = len(name) - 1
+    next = 0
+    
+    for i, char in enumerate(name):
+        answer += min(ord(char) - ord('A'), ord('Z') - ord(char) + 1)
+        
+        next = i + 1
+        while next < len(name) and name[next] == 'A':
+            next += 1
+        
+        min_move = min(min_move, i + i + len(name) - next)
+    answer += min_move
+    return answer
+```
+
+
+## 내 풀이
 일단 내가 푼 풀이는 테스트케이스 3,4,5,7,11 통과 못함
 
 문제를 제대로 안 읽어서 문자 개수만큼 A로 이루어졌다는 걸 고려 못함.
