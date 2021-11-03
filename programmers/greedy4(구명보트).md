@@ -43,11 +43,11 @@ def solution(people, limit):
     cnt = 0
     while q:
         if len(q) >= 2:
-            if q[0] + q[-1] <= limit:
+            if q[0] + q[-1] <= limit: #que의 양 끝 원소들끼리 더함
                 q.pop()
                 q.popleft()
                 boat += 1
-            elif q[0] + q[-1] > limit:
+            elif q[0] + q[-1] > limit: #두 원소 더한 것이 limit보다 크면 마지막 원소만 pop
                 q.pop()
                 boat += 1
         else:
