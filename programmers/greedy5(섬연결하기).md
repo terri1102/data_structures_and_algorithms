@@ -45,3 +45,7 @@ while len(connect) != n:
             answer += cost[2]
 print(answer)
 ```
+
+풀이 출처
+
+https://velog.io/@daon9apples/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Level-2-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8-python
