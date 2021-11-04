@@ -40,12 +40,32 @@ connect = set([costs[0][0]]) #{0}
 #Kruskal 알고리즘으로 최소 비용 구하기
 while len(connect) != n:
     for cost in costs: #cost는 [0,1,1] 이런식의 리스트
-        if cost[0] in connect and cost[1] in connect: #이미 두 섬이 연결되었을 때. 즉 섬 1이 connect에 있고, 섬 2가 connect에 있을 때 넘어가기
+        if cost[0] in connect and cost[1] in connect: 
             continue
-        if cost[0] in connect or cost[1] in connect: #둘 중 하나의 섬이 connect에 있을 때. connect에 {0}이 있으니까 이걸 시작점으로 잡는 듯
+        if cost[0] in connect or cost[1] in connect: 
             connect.update([cost[0], cost[1]])
             answer += cost[2]
 print(answer)
+def solution(n, costs):
+    answer = 0
+    #1. 그래프의 모든 에지를 최소힙 H에 추가
+    costs.sort(key = lambda x: x[2]) #최소힙 H. 비용기준으로 오름차순 정렬
+    connect = set([costs[0][0]]) # 최소 신장 트리 T. 연결을 확인하는 집합 
+    
+    # Kruskal 알고리즘으로 최소 비용 구하기
+    while len(connect) != n:
+    #2. 최소 힙(H)으로부터 에지 e를 하나 꺼냄. 모든 에지 중 가중치가 가장 작은 에지
+        for cost in costs:
+    #3. 에지 e의 양 끝 정점이 이미 T에 있으면 사이클이 발생. 이럴 경우 e를 버리고 다음 단계로.
+            if cost[0] in connect and cost[1] in connect: ##이미 두 섬이 연결되었을 때. 즉 섬 1이 connect에 있고, 섬 2가 connect에 있을 때 넘어가기
+                continue
+    #4. 최소 신장트리 T에 e를 추가하고, 2단계로 이동
+            if cost[0] in connect or cost[1] in connect: ##둘 중 하나의 섬이 connect에 있을 때. connect에 {0}이 있으니까 이걸 시작점으로 잡는 듯
+                connect.update([cost[0], cost[1]])
+                answer += cost[2]
+                break
+                
+    return answer
 ```
 
 풀이 출처
