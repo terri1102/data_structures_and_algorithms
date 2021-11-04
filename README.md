@@ -34,6 +34,9 @@
 |7| Implementation | 소수의 개수(에라토스테네스의 체) |- | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/7.%EC%86%8C%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%EC%B2%B4).md) | 2021.04.10| |
 |8|Implementation| 뒤집은 소수| - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/8.%EB%92%A4%EC%A7%91%EC%9D%80%EC%86%8C%EC%88%98.md) | 2021.04.10 | |
 |9| Implementation| 주사위 게임| -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/9.%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B2%8C%EC%9E%84.md) | 2021.04.10 | |
+|10| Implementation| 점수 계산 | -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/10.%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0.md) | 2021.04.10 | |
+
+
 
 ## Leetcode
 
