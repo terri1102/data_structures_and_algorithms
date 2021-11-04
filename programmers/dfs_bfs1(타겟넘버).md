@@ -24,6 +24,8 @@ n개의 음이 아닌 정수가 있습니다. 이 수를 적절히 더하거나 
 
 
 ## BFS 풀이
+queue에 numbers의 원소를 +했을 때, -했을 때를 index와 함께 넣는다.
+
 ```python
 from collections import deque
 def solution(numbers, target):
@@ -38,7 +40,7 @@ def solution(numbers, target):
         if idx < n:
             queue.append([temp+numbers[idx],idx]) #numbers의 원소 + 그 다음 위치의 원소
             queue.append([temp - numbers[idx],idx]) #numbers의 원소 - 그 다음 위치의 원소
-            print(queue)
+           
         else:
             if temp == target:
                 answer += 1
@@ -46,7 +48,7 @@ def solution(numbers, target):
 ```
 
 ## DFS 풀이
-
+nonlocal을 기억해보자.
 ```python
 def solution(numbers, target):
     n = len(numbers)
