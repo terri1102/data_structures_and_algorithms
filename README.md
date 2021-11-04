@@ -30,7 +30,7 @@
 |3| Implementation | K번째 큰 수 | -|  [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/3.k%EB%B2%88%EC%A7%B8_%ED%81%B0_%EC%88%98.md)| 2021.04.01| |4| Implementation | 대푯값 | - | [Python]() | 2021.04.05| |
 |4|Implementation| 대푯값| -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/4.%EB%8C%80%ED%91%AF%EA%B0%92.md) | 2021.04.05| |
 |5| Implementation | 정다면체 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/5.%EC%A0%95%EB%8B%A4%EB%A9%B4%EC%B2%B4.md)| 2021.04.06 | |
-|6|자릿수의 합| - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/6.%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%ED%95%A9.md)| 2021.04.10| |
+|6|Implementation |자릿수의 합| - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/6.%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%ED%95%A9.md)| 2021.04.10| |
 
 ## Leetcode
 
