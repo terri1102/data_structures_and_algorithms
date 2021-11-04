@@ -11,7 +11,9 @@
 ## 정보올림피아드
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
 | :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
-|1| Implementation | K번째 수 | - | [Python]() | 2021.04.01| |
+|1| Implementation | K번째 약수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/tree/main/section2) | 2021.04.05| |
+|2| Implementation | K번째 수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/2.K%EB%B2%88%EC%A7%B8%EC%88%98.md)| 2021.04.05| |
+|3| Implementation | K번째 큰 수 | -|  [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/3.k%EB%B2%88%EC%A7%B8_%ED%81%B0_%EC%88%98.md)| 2021.04.01| |
 
 
 ## Leetcode
