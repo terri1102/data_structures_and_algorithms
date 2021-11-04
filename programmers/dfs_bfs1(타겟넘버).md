@@ -1,4 +1,5 @@
 ## 문제 링크
+https://programmers.co.kr/learn/courses/30/lessons/43165
 
 ## 문제 설명
 n개의 음이 아닌 정수가 있습니다. 이 수를 적절히 더하거나 빼서 타겟 넘버를 만들려고 합니다. 예를 들어 [1, 1, 1, 1, 1]로 숫자 3을 만들려면 다음 다섯 방법을 쓸 수 있습니다.
@@ -20,3 +21,34 @@ n개의 음이 아닌 정수가 있습니다. 이 수를 적절히 더하거나 
 |numbers|	target|	return|
 |---|---|---|
 |[1, 1, 1, 1, 1]|	3|	5|
+
+
+## BFS 풀이
+```python
+from collections import deque
+def solution(numbers, target):
+    answer = 0
+    queue = deque()
+    n = len(numbers)
+    queue.append([numbers[0],0]) #numbers의 첫번째 element +
+    queue.append([-1*numbers[0],0]) #numbers의 첫번째 element - . deque([[1,0],[-1,0]]) 이런식으로 들어가게 됨
+    while queue:
+        temp, idx = queue.popleft()
+        idx += 1 #다음 원소 선택
+        if idx < n:
+            queue.append([temp+numbers[idx],idx]) #numbers의 원소 + 그 다음 위치의 원소
+            queue.append([temp - numbers[idx],idx]) #numbers의 원소 - 그 다음 위치의 원소
+            print(queue)
+        else:
+            if temp == target:
+                answer += 1
+    return answer
+```
+
+## DFS 풀이
+
+```python
+
+```
+
+풀이 출처 : 
