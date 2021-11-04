@@ -20,4 +20,56 @@ computer[i][i]는 항상 1입니다.
 |3|	[[1, 1, 0], [1, 1, 0], [0, 0, 1]]|	2|
 |3|	[[1, 1, 0], [1, 1, 1], [0, 1, 1]]|	1|
 
+## DFS 풀이
+구하려는 네트워크의 개수를 트리의 개수로 생각하기
 
+```python
+def solution(n, computers):
+    answer = 0
+    visited = [False for i in range(n)]
+    for com in range(n):
+        if visited[com] == False:
+            DFS(n, computers, com, visited)
+            answer += 1 
+    return answer
+
+def DFS(n, computers, com, visited):
+    visited[com] = True
+    for connect in range(n):
+        if connect != com and computers[com][connect] == 1: #연결된 컴퓨터
+            if visited[connect] == False:
+                DFS(n, computers, connect, visited)
+```
+
+
+## BFS 풀이
+BFS 풀이는 while queue가 꼭 들어가는 거 같다.
+
+![image](https://user-images.githubusercontent.com/73813367/140433770-c401a78d-dee9-45bf-b3ad-8799919103d4.png)
+
+```python
+def solution(n, computers):
+    answer = 0
+    visited = [False for i in range(n)]
+    for com in range(n):
+        if visited[com] == False:
+            BFS(n, computers, com, visited)
+            answer += 1
+    return answer
+
+def BFS(n, computers, com, visited):
+    visited[com] = True
+    queue = []
+    queue.append(com)
+    while len(queue) != 0:
+        com = queue.pop(0)
+        visited[com] = True
+        for connect in range(n):
+            if connect != com and computers[com][connect] == 1:
+                if visited[connect] == False:
+                    queue.append(connect)
+```
+
+
+풀이 출처 : 
+https://velog.io/@timointhebush/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-DFS-BFS-Python
