@@ -28,6 +28,7 @@
 |1| Implementation | K번째 약수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/tree/main/section2) | 2021.04.05| |
 |2| Implementation | K번째 수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/2.K%EB%B2%88%EC%A7%B8%EC%88%98.md)| 2021.04.05| |
 |3| Implementation | K번째 큰 수 | -|  [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/3.k%EB%B2%88%EC%A7%B8_%ED%81%B0_%EC%88%98.md)| 2021.04.01| |4| Implementation | 대푯값 | - | [Python]() | 2021.04.05| |
+|4|Implementation| 대푯값| -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/4.%EB%8C%80%ED%91%AF%EA%B0%92.md) | 2021.04.05| |
 
 
 
