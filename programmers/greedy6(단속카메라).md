@@ -24,17 +24,22 @@ routes에는 차량의 이동 경로가 포함되어 있으며 routes[i][0]에�
 
 
 ## 풀이
+작업 스케줄링 문제와 일부 비슷함.
 
+1. 종료 시간(차량이 나간 지점) 기준으로 정렬
+2. 가장 빠른 종료 시간을 갖는 작업 선택
+3. 현재 선택된 작업과 시간이 겹치는 작업 모두 제거
+4. 리스트에 작업이 남아 있으면 2단계로 이동. 그렇지 않으면 반환.
 ```python
 def solution(routes):
     answer = 0
     routes.sort(key=lambda x: x[1]) # routes를 차량이 나간 지점 (진출) 기준으로 정렬
-    camera = -30001 # -30001부터 카메라 위치를 찾습니다.
+    camera = -30001 # -30001부터 카메라 위치를 찾음
 
     for route in routes:
-        if camera < route[0]:
+        if camera < route[0]: #차량 진입점보다 카메라 앞에 있으면
             answer += 1
-            camera = route[1]
+            camera = route[1] #차량 나간 지점에 카메라 추가
     return answer
 ```
 
