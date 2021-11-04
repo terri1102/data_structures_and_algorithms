@@ -8,24 +8,6 @@
 - 시간/공간 복잡도를 고려
 - 어떤 테스트 케이스를 통과하는지에 대해 고려함
 
-## 정보올림피아드
-| Index | Type | Problem | Difficulty | Solution | Date | Remark |
-| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
-|1| Implementation | K번째 약수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/tree/main/section2) | 2021.04.05| |
-|2| Implementation | K번째 수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/2.K%EB%B2%88%EC%A7%B8%EC%88%98.md)| 2021.04.05| |
-|3| Implementation | K번째 큰 수 | -|  [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/3.k%EB%B2%88%EC%A7%B8_%ED%81%B0_%EC%88%98.md)| 2021.04.01| |
-
-
-## Leetcode
-
-
-
-| Index | Type | Problem | Difficulty | Solution | Date | Remark |
-| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
-|   1   | Array |  [Two Sum](https://leetcode.com/problems/two-sum/)  |  Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/leetcode/Array/two_sum.md) | 2021.10.08 | |
-
-
-
 ## Programmers
 
 
@@ -38,3 +20,25 @@
 |4 | Greedy | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy4(%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8).md)| 2021.11.04 | |
 | 5| Greedy | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |3| [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy5(%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0).md)|2021.11.04 | |
 |6| Greedy | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|3|[Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy6(%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC).md) | 2021.11.04 | |
+
+
+## 정보올림피아드
+| Index | Type | Problem | Difficulty | Solution | Date | Remark |
+| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
+|1| Implementation | K번째 약수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/tree/main/section2) | 2021.04.05| |
+|2| Implementation | K번째 수 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/2.K%EB%B2%88%EC%A7%B8%EC%88%98.md)| 2021.04.05| |
+|3| Implementation | K번째 큰 수 | -|  [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/3.k%EB%B2%88%EC%A7%B8_%ED%81%B0_%EC%88%98.md)| 2021.04.01| |4| Implementation | 대푯값 | - | [Python]() | 2021.04.05| |
+
+
+
+## Leetcode
+
+
+
+| Index | Type | Problem | Difficulty | Solution | Date | Remark |
+| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
+|   1   | Array |  [Two Sum](https://leetcode.com/problems/two-sum/)  |  Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/leetcode/Array/two_sum.md) | 2021.10.08 | |
+
+
+
+
