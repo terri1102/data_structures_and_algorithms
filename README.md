@@ -32,6 +32,9 @@
 |5| Implementation | 정다면체 | - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/5.%EC%A0%95%EB%8B%A4%EB%A9%B4%EC%B2%B4.md)| 2021.04.06 | |
 |6|Implementation |자릿수의 합| - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/6.%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%ED%95%A9.md)| 2021.04.10| |
 |7| Implementation | 소수의 개수(에라토스테네스의 체) |- | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/7.%EC%86%8C%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%EC%B2%B4).md) | 2021.04.10| |
+|8|Implementation| 뒤집은 소수| - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/8.%EB%92%A4%EC%A7%91%EC%9D%80%EC%86%8C%EC%88%98.md) | 2021.04.10 | |
+
+
 ## Leetcode
 
 
