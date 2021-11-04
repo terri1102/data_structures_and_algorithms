@@ -9,7 +9,9 @@
 - 어떤 테스트 케이스를 통과하는지에 대해 고려함
 
 ## 정보올림피아드
-
+| Index | Type | Problem | Difficulty | Solution | Date | Remark |
+| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
+|1| Implementation | K번째 수 | - | [Python]() | 2021.04.01| |
 
 
 ## Leetcode
