@@ -20,7 +20,7 @@
 |4 | Greedy | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy4(%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8).md)| 2021.11.04 | |
 | 5| Greedy | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |3| [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy5(%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0).md)|2021.11.04 | |
 |6| Greedy | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|3|[Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy6(%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC).md) | 2021.11.04 | |
-
+|7| BFS, DFS | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43165) | 2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/dfs_bfs1(%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84).md)| 2021.11.05| |
 
 ## 정보올림피아드
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
