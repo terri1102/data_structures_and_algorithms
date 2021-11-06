@@ -35,11 +35,11 @@
 |8|Implementation| 뒤집은 소수| - | [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/8.%EB%92%A4%EC%A7%91%EC%9D%80%EC%86%8C%EC%88%98.md) | 2021.04.10 | |
 |9| Implementation| 주사위 게임| -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/9.%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B2%8C%EC%9E%84.md) | 2021.04.10 | |
 |10| Implementation| 점수 계산 | -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/10.%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0.md) | 2021.04.10 | |
-|11 | Explorateion |    | | -| [Python]() | 2021.04.| |
-|12 | Explorateion |    | | -| [Python]() | 2021.04.| |
-|13 | Explorateion |    | | -| [Python]() | 2021.04.| |
-|14 | Explorateion |    | | -| [Python]() | 2021.04.| |
-|15 | Explorateion |    | | -| [Python]() | 2021.04.| |
+|11 | Explorateion |  회문 문자열 검사| -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/1.%ED%9A%8C%EB%AC%B8%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%80%EC%82%AC.py) | 2021.04.24| |
+|12 | Explorateion | 숫자만 추출   |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/2.%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.py.py) | 2021.04.24| |
+|13 | Explorateion |    |  -| [Python]() | 2021.04.| |
+|14 | Explorateion |    |  -| [Python]() | 2021.04.| |
+|15 | Explorateion |    |  -| [Python]() | 2021.04.| |
 
 
 
