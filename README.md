@@ -42,7 +42,12 @@
 |15 | Explorateion |  수들의 합  |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/5.%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py) | 2021.04.24| |
 |16 | Binary Search |  이분 탐색  |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section4/1.%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.md) | 2021.04.27| |
 |17 | Binary Search |  랜선 자르기  |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section4/2.%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0.md) | 2021.04.27| |
-|18 | Binary Search |  랜선 자르기  |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section4/2.%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0.md) | 2021.04.27| |
+|18 | Data Structure |  가장 큰 수 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/1.%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.md) | 2021.05.06| |
+|19 | Data Structure |  중위, 후위 표기식 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/3.%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D.md) | 2021.05.06| |
+|20 | Data Structure |  후위표기식연산|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/4.%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D%EC%97%B0%EC%82%B0.md) | 2021.05.07| |
+|21 | Data Structure |  응급실 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/6.%EC%9D%91%EA%B8%89%EC%8B%A4(%ED%81%90).md) | 2021.05.09| |
+|22 | Data Structure |  아나그램 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/9.%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8(%ED%95%B4%EC%89%AC%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC).md) | 2021.05.09| |
+
 
 
 ## Leetcode
