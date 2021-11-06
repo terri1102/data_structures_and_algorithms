@@ -77,7 +77,7 @@
 |49 | Dynamic Programming | 다이나믹 프로그래밍 설명 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/3.%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md) | 2021.05.24| |
 |50 | Dynamic Programming | 네트워크 선 자르기 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/1.%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0(%EC%9E%AC%EA%B7%80%2C%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98).md) | 2021.05.24| |
 |51 | Dynamic Programming | 최대 부분 증가 수열(LIS) |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/4.%EC%B5%9C%EB%8C%80%EB%B6%80%EB%B6%84%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4(LIS).md) | 2021.06.02| |
-|52 | Dynamic Programming | 최대 선 연결하기 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/5.%EC%B5%9C%EB%8C%80%EC%84%A0_%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md) | 2021.05.17| |
+|52 | Dynamic Programming | 최대 선 연결하기 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/5.%EC%B5%9C%EB%8C%80%EC%84%A0_%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md) | 2021.06.02| |
 |53 | Dynamic Programming | 플로이드 와샬 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/12.%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80%EC%83%AC.md) | 2021.05.30| |
 
 ## Leetcode
