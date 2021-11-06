@@ -37,9 +37,9 @@
 |10| Implementation| 점수 계산 | -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section2/10.%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0.md) | 2021.04.10 | |
 |11 | Explorateion |  회문 문자열 검사| -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/1.%ED%9A%8C%EB%AC%B8%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%80%EC%82%AC.py) | 2021.04.24| |
 |12 | Explorateion | 숫자만 추출   |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/2.%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.py.py) | 2021.04.24| |
-|13 | Explorateion |    |  -| [Python]() | 2021.04.| |
-|14 | Explorateion |    |  -| [Python]() | 2021.04.| |
-|15 | Explorateion |    |  -| [Python]() | 2021.04.| |
+|13 | Explorateion | 카드역배치   |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/3.%EC%B9%B4%EB%93%9C%EC%97%AD%EB%B0%B0%EC%B9%98.py) | 2021.04.| |
+|14 | Explorateion |  두 리스트 합치기 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/4.%EB%91%90%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%95%A9%EC%B9%98%EA%B8%B0.py) | 2021.04.| |
+|15 | Explorateion |  수들의 합  |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section3/5.%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py) | 2021.04.| |
 
 
 
