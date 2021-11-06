@@ -56,7 +56,9 @@
 |29 | DFS |  동전 교환|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/7.%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98.md) | 2021.05.14| |
 |30 | DFS |  순열 구하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/8.%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.md) | 2021.05.14| |
 |31 | DFS |  순열 추측하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/9.%EC%88%9C%EC%97%B4%EC%B6%94%EC%B8%A1%ED%95%98%EA%B8%B0.md) | 2021.05.17| |
-
+|32 | DFS |  조합 구하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/10.%EC%A1%B0%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0.md) | 2021.05.17| |
+|33 | DFS |  수들의 조합|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/11.%EC%88%98%EB%93%A4%EC%9D%98%EC%A1%B0%ED%95%A9.md) | 2021.05.17| |
+|34 | DFS, Graph |  경로 탐색|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/15.%EA%B2%BD%EB%A1%9C%ED%83%90%EC%83%89(%EA%B7%B8%EB%9E%98%ED%94%84%20DFS).md) | 2021.05.16| |
 
 ## Leetcode
 
