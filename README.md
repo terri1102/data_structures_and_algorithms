@@ -47,7 +47,15 @@
 |20 | Data Structure |  후위표기식연산|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/4.%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D%EC%97%B0%EC%82%B0.md) | 2021.05.07| |
 |21 | Data Structure |  응급실 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/6.%EC%9D%91%EA%B8%89%EC%8B%A4(%ED%81%90).md) | 2021.05.09| |
 |22 | Data Structure |  아나그램 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section5/9.%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8(%ED%95%B4%EC%89%AC%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC).md) | 2021.05.09| |
-
+|23 | Binary Tree |  이진트리 탐색|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C(%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89).md) | 2021.05.11| |
+|24 | Graph |  무방향 그래프, 가중치 그래프|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/%EC%9D%B8%EC%A0%91%ED%96%89%EB%A0%AC(%EB%AC%B4%EB%B0%A9%ED%96%A5%20%EA%B7%B8%EB%9E%98%ED%94%84%2C%20%EA%B0%80%EC%A4%91%EC%B9%98%20%EB%B0%A9%ED%96%A5%20%EA%B7%B8%EB%9E%98%ED%94%84).md) | 2021.05.16| |
+|25 | Brute Force | 부분집합 구하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/3.%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0(DFS).md) | 2021.05.12| |
+|26 | DFS |  합이 같은 부분 집합|  -| [Python]() | 2021.05.12| |
+|27 | DFS |  바둑이 승차|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/5.%EB%B0%94%EB%91%91%EC%9D%B4%EC%8A%B9%EC%B0%A8.md) | 2021.05.12| |
+|28 | DFS |  중복 순열 구하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/6.%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.md) | 2021.05.13| |
+|29 | DFS |  동전 교환|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/7.%EB%8F%99%EC%A0%84%EA%B5%90%ED%99%98.md) | 2021.05.14| |
+|30 | DFS |  순열 구하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/8.%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.md) | 2021.05.14| |
+|31 | DFS |  순열 추측하기|  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section6(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)/9.%EC%88%9C%EC%97%B4%EC%B6%94%EC%B8%A1%ED%95%98%EA%B8%B0.md) | 2021.05.17| |
 
 
 ## Leetcode
