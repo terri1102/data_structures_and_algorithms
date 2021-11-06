@@ -24,11 +24,11 @@
 |8| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
 |9| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
 |10| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
-|11| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
+|11| Binary Search | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)  | 3 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/binary_search(%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC).md)| 2021.11.06| |
 |12| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
 
 
-https://github.com/terri1102/algorithm_self_study/blob/main/programmers/binary_search(%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC).md
+
 
 ## 정보올림피아드
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
