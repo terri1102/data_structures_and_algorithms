@@ -26,9 +26,9 @@
 |10| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
 |11| Binary Search | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)  | 3 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/binary_search(%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC).md)| 2021.11.06| |
 |12| Binary Search | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/binary_search2(%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC).md)| 2021.11.06| |
-|13| Graph | [가장 먼 ]() | 4 | [Python])| 2021.11.07| |
-|14| Graph | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | 4 | [Python]()| 2021.11.07| |
-|15| Graph | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | 4 | [Python])| 2021.11.07| |
+|13| Graph | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/graph(%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C).md)| 2021.11.07| |
+|14| Graph | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/graph(%EC%88%9C%EC%9C%84).md)| 2021.11.07| |
+|15| Graph | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | 5 | [Python]()| 2021.11.07| |
 
 
 
