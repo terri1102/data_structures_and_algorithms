@@ -32,21 +32,20 @@ def solution(n, results):
     losers = defaultdict(set)
     
     for winner, loser in results:
-        winners[loser].add(winner)
+        winners[loser].add(winner) #loser를 이긴 애들을 set에 넣음
         losers[winner].add(loser)
-    
-    for i in range(1, n+1):
+        
+    for i in range(n+1):
         for winner in winners[i]:
-            losers[winner].update(losers[i])
+            losers[winner].update(losers[i]) #winner가 이긴 애들에 losers[i] 추가하기
         for loser in losers[i]:
             winners[loser].update(winners[i])
-    for i in range(1,n+1):
-        if len(winners[i]) + len(losers[i]) == n-1:
+    for i in range(1, n+1):
+        if len(winners[i]) + len(losers[i]) == n-1: #이기거나 진 사람들이 n-1인 경우
             answer += 1
-    return answer
-
-if __name__ == "__main__":
-    print(solution(5,[[4, 3], [4, 2], [3, 2], [1, 2], [2, 5]]))
         
-
+    return answer
+        
 ```
+
+풀이 출처: https://velog.io/@narastro/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%9C%EC%9C%84-Python
