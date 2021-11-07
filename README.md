@@ -8,6 +8,22 @@
 - 시간/공간 복잡도를 고려
 - 어떤 테스트 케이스를 통과하는지에 대해 고려함
 
+
+## Baekjoon
+
+| Index | Type | Problem | Difficulty | Solution | Date | Remark |
+| :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
+|   1   | BFS|  [DFS와 BFS](https://www.acmicpc.net/problem/1260) |  실버2 | Python| 2021.11.08 | |
+|   2   | BFS|  [미로탐색](https://www.acmicpc.net/problem/2178) |  실버1 | Python| 2021.11.08 | |
+|   3   | BFS|  [단지번호붙이기](https://www.acmicpc.net/problem/2667) |  실버1 | Python| 2021.11.09 | |
+|   4   | BFS|  [바이러스](https://www.acmicpc.net/problem/2606) |  실버3 | Python| 2021.11.09 | |
+|   5   | BFS|  [유기농 배추](https://www.acmicpc.net/problem/1012) |  실버2 | Python| 2021.11.10 | |
+|   6   | BFS|  [토마토](https://www.acmicpc.net/problem/7576) |  실버2 | Python| 2021.11.10 | |
+|   7   | BFS|  [숨바꼭질](https://www.acmicpc.net/problem/1697) |  실버2 | Python| 2021.11.11 | |
+|   8   | BFS|  [연결 요소의 개수](https://www.acmicpc.net/problem/11724) |  실버2 | Python| 2021.11.11 | |
+|   9   | BFS|  [연구소](https://www.acmicpc.net/problem/14502) |  실버2 | Python| 2021.11.12 | |
+|   10  | BFS|  [섬의 개수](https://www.acmicpc.net/problem/4963) |  실버2 | Python| 2021.11.12 | |
+
 ## Programmers
 
 
