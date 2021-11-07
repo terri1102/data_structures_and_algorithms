@@ -20,10 +20,10 @@
 |4 | Greedy | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy4(%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8).md)| 2021.11.04 | |
 | 5| Greedy | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |3| [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy5(%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0).md)|2021.11.04 | |
 |6| Greedy | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|3|[Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/greedy6(%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC).md) | 2021.11.04 | |
-|7| BFS, DFS | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43165) | 2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/dfs_bfs1(%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84).md)| 2021.11.05| |
-|8| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
-|9| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
-|10| BFS, DFS |  | 2 | [Python]()| 2021.11.05| |
+|7| BFS, DFS | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | 2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/dfs_bfs1(%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84).md)| 2021.11.05| |
+|8| BFS, DFS | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | 3 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/dfs_bfs2(%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC).md)| 2021.11.05| |
+|9| BFS, DFS | [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | 3 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/dfs_bfs3(%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98).md)| 2021.11.05| |
+|10| BFS, DFS | 여행경로 | 3 | [Python]()| 2021.11.05| |
 |11| Binary Search | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)  | 3 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/binary_search(%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC).md)| 2021.11.06| |
 |12| Binary Search | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/binary_search2(%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC).md)| 2021.11.06| |
 |13| Graph | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/graph(%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C).md)| 2021.11.07| |
