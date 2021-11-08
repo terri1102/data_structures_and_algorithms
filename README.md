@@ -13,8 +13,8 @@
 
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
 | :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
-|   1   | BFS|  [DFS와 BFS](https://www.acmicpc.net/problem/1260) |  실버2 | Python| 2021.11.08 | |
-|   2   | BFS|  [미로탐색](https://www.acmicpc.net/problem/2178) |  실버1 | Python| 2021.11.08 | |
+|   1   | BFS|  [DFS와 BFS](https://www.acmicpc.net/problem/1260) |  실버2 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/backjoon/1260(DFS%EC%99%80BFS).md)| 2021.11.08 | |
+|   2   | BFS|  [미로탐색](https://www.acmicpc.net/problem/2178) |  실버1 | Python| 2021.11.09 | |
 |   3   | BFS|  [단지번호붙이기](https://www.acmicpc.net/problem/2667) |  실버1 | Python| 2021.11.09 | |
 |   4   | BFS|  [바이러스](https://www.acmicpc.net/problem/2606) |  실버3 | Python| 2021.11.09 | |
 |   5   | BFS|  [유기농 배추](https://www.acmicpc.net/problem/1012) |  실버2 | Python| 2021.11.10 | |
