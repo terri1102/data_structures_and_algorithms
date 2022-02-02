@@ -108,6 +108,7 @@
 | :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
 |   1   | Array |  [Two Sum](https://leetcode.com/problems/two-sum/)  |  Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/leetcode/Array/two_sum.md) | 2021.10.08 | |
 | 2| Array| [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/leetcode/Array/removeduplicates.md) | 2021.11.19 | 
+| 3 | Concurrency | [Print in order](https://leetcode.com/problems/print-in-order/) | Easy | [Python] | 2022.01.31 |
 
 
 
