@@ -12,6 +12,10 @@ Return k after placing the final result in the first k slots of nums.
 Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
 
 
+빈 리스트인 경우 생각하기
+
+정렬된 상태이기에 포인터로 풀 수 있음
+
 ## 풀이
 중복된 값이 아닐 때 커서를 하나씩 옮겨주면 된다
 ```python
