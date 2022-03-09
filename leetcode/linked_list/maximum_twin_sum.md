@@ -16,7 +16,7 @@ Memory Usage: 45.1 MB, less than 89.45% of Python3 online submissions for Maximu
 2. fast pointer는 두 칸씩(한 칸보다 크게) 전진, slow pointer는 한 칸씩 전진
 
 나는 링크드 리스트의 전체 사이즈를 모르니까 새로운 배열 하나를 아예 하나 만들어서 순회했는데, 이 풀이는 linked list의 중간 값을 구한 다음에 이 뒷 부분만 뒤집는다 
-(링크드 리스트 풀 때마다 Node 클래스에 size랑 prev attribute 넣고 싶어짐... )
+(링크드 리스트 풀 때마다 Node 클래스에 size랑 prev attribute 넣고 싶어짐. Linked list 클래스엔 tail도.. )
 
 1. linked list의 중간(slow)을 구한다. O(n/2)
 2. 위에서 구한 slow를 이용해서 reversed linked list를 구한다. O(n/2)
