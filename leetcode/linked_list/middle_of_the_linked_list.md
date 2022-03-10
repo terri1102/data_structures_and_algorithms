@@ -36,3 +36,17 @@ class Solution:
             slow = slow.next
         return slow
  ```
+ 
+ 비슷한데 더 나은 풀이...
+ 
+ while fast and fast.next로 조건 걸면 훨씬 빠름
+ ```python
+ class Solution:
+    def middleNode(self, head):
+        slow = fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        return slow
+        
+ ```
