@@ -11,7 +11,7 @@ https://leetcode.com/problems/reorder-list/
 
 
 ## 풀이
-
+푸는 중...
 
 ```python
 # Definition for singly-linked list.
