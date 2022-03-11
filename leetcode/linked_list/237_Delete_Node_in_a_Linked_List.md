@@ -1,6 +1,32 @@
 
+## 문제 
 
+## 출처
+https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/
 
+## 풀이
+
+뭔가 넌센스스러운 풀이였다...
+```python
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def deleteNode(self, node):
+        """
+        :type node: ListNode
+        :rtype: void Do not return anything, modify node in-place instead.
+        """
+        node.val = node.next.val
+        node.next = node.next.next
+```
+
+아래는 내가 삽질한 거
+
+head 노드를 모르니까 삭제할 노드 앞 노드에 도달할 수 없음(prev 못 구함)
 
 ```python
 # Definition for singly-linked list.
