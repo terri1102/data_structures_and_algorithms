@@ -38,3 +38,25 @@ class Solution(object):
         return image
 
 ```
+
+## 문제에서 의도한 것 같은 풀이
+i는 0부터 시작 j는 리스트의 끝부터 시작하는 투 포인터
+```python
+def flipAndInvertImage(self, A):
+	for row in A:
+		i, j = 0, len(row) - 1
+		while i <= j:
+			if row[i] == row[j]:
+				row[i], row[j] = row[i]^1, row[j]^1
+			i += 1
+			j -= 1
+	return A
+
+```
+
+## 다른 풀이
+```python
+  def flipAndInvertImage(self, A):
+        return [[1 ^ i for i in reversed(row)] for row in A]
+```
+파이썬스럽게 list comprehension으로 한 줄로 풀었군
