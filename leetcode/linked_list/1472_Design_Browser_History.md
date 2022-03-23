@@ -20,6 +20,7 @@ Runtime: 372 ms, faster than 36.16% of Python online submissions for Design Brow
 
 Memory Usage: 16.7 MB, less than 9.59% of Python online submissions for Design Browser History.
 
+
 ```python
 class UrlNode(object):
     def __init__(self, url):
@@ -102,5 +103,31 @@ class BrowserHistory(object):
 # param_2 = obj.back(steps)
 # param_3 = obj.forward(steps)
 
+```
 
+## 다른 풀이
+dynamic array로 풀었는데 엄청 빠르다..! time complexity는 O(1), space complexity는 O(N)임
+```python
+class BrowserHistory:
+
+    def __init__(self, homepage: str):
+        self.history = [homepage]
+        self.curr = 0 # 인덱스 번호로 사용했음
+        self.bound = 0
+
+    def visit(self, url: str) -> None:
+        self.curr += 1
+        if self.curr == len(self.history):
+            self.history.append(url)
+        else:
+            self.history[self.curr] = url
+        self.bound = self.curr
+
+    def back(self, steps: int) -> str:
+        self.curr = max(self.curr - steps, 0)
+        return self.history[self.curr]
+
+    def forward(self, steps: int) -> str:
+        self.curr = min(self.curr + steps, self.bound)
+        return self.history[self.curr]
 ```
