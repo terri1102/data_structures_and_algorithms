@@ -18,9 +18,7 @@ class Solution(object):
                 sandwiches = sandwiches[1:]
                
             else:
-                tmp_sandw = sandwiches[0]
                 tmp_stu = students[0]
-                sandwiches = sandwiches[1:].append(tmp_sandw)
                 students = students[1:].append(tmp_stu)
         
         if not students:
