@@ -4,6 +4,27 @@
 ## 출처
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/submissions/
 
+
+```python
+import collections
+class Solution(object):
+    def countStudents(self, students, sandwiches):
+        """
+        :type students: List[int]
+        :type sandwiches: List[int]
+        :rtype: int
+        """
+        count = collections.Counter(students)
+        n, k = len(students), 0
+        
+        while k < n and count[sandwiches[k]]:
+            count[sandwiches[k]] -= 1
+            k += 1
+        return n-k
+
+```
+
+
 ```python
 class Solution(object):
     def countStudents(self, students, sandwiches):
