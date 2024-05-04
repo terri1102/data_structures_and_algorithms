@@ -8,6 +8,43 @@
 - 시간/공간 복잡도를 고려
 - 어떤 테스트 케이스를 통과하는지에 대해 고려함
 
+## Data structure
+### Array & String
+
+### Linked List
+
+### Hashtable
+
+### Stack
+
+### Queue
+
+### Heap
+
+### Graph
+
+### Tree
+- Binary Tree
+- Balanced Tree
+- Trie
+
+## Algorithm
+### Search
+### Binary search
+### BFS
+### DFS
+
+### Sort
+### Merge Sort
+### Quick Sort
+
+### Dynamic programming
+
+## Concepts
+- Bit manipulation
+- Memory(stack vs. Heap)
+- Recursion
+- Big-o time & memory 
 
 ## Baekjoon
 
