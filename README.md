@@ -11,6 +11,8 @@
 ## Data structure
 ### Array & String
 
+
+- 예시 문제: 투포인터
 ### Linked List
 
 ### Hashtable
@@ -28,19 +30,24 @@
 - Balanced Tree
 - Trie
 
-- 소인수 찾기
-
 ## Algorithm
 ### Search
 ### Binary search
 ### BFS
+- 최단 경로, 레벨 탐
 ### DFS
+- 모든 경우 다 탐색하는 문제
+백트래킹
 
 ### Sort
 ### Merge Sort
 ### Quick Sort
 
 ### Dynamic programming
+
+### 기타
+- knapsack algorithm
+- 소수 찾기, 에라토스테네스의 체
 
 ## Concepts
 - Bit manipulation
