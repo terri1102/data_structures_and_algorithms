@@ -28,6 +28,8 @@
 - Balanced Tree
 - Trie
 
+- 소인수 찾기
+
 ## Algorithm
 ### Search
 ### Binary search
