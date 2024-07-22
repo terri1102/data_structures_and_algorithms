@@ -1,4 +1,4 @@
-# algorithm_self_study
+# Data Structure and Algorithms
 
 ## 문제 풀이 과정
 - 문제 분석과 함께 어떤 알고리즘과 자료구조가 적절한지 파악
@@ -8,52 +8,23 @@
 - 시간/공간 복잡도를 고려
 - 어떤 테스트 케이스를 통과하는지에 대해 고려함
 
+## 템플릿
+### 파일명
+- 리트코드: l
+- 백준: b
+- 프로그래머스: p
+- 정보올림피아드: koi
+- 기타(others): o
+- Cracking Coding Interviews: cci
+- 파일명 예시
+
+`b_2941_problem_title.py`
+
+### Github Action
+문제 태그, 난이도, 푼 날짜, 저지 사이트, 문제 링크, 내 풀이 링크
+
 ## Data structure
-### Array & String
 
-
-- 예시 문제: 투포인터
-### Linked List
-
-### Hashtable
-
-### Stack
-
-### Queue
-
-### Heap
-
-### Graph
-
-### Tree
-- Binary Tree
-- Balanced Tree
-- Trie
-
-## Algorithm
-### Search
-### Binary search
-### BFS
-- 최단 경로, 레벨 탐
-### DFS
-- 모든 경우 다 탐색하는 문제
-백트래킹
-
-### Sort
-### Merge Sort
-### Quick Sort
-
-### Dynamic programming
-
-### 기타
-- knapsack algorithm
-- 소수 찾기, 에라토스테네스의 체
-
-## Concepts
-- Bit manipulation
-- Memory(stack vs. Heap)
-- Recursion
-- Big-o time & memory 
 
 ## Baekjoon
 
@@ -83,9 +54,6 @@
 |13| Graph | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/graph(%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C).md)| 2021.11.07| |
 |14| Graph | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | 4 | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/programmers/graph(%EC%88%9C%EC%9C%84).md)| 2021.11.07| |
 |15| Graph | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | 5 | [Python]()| 2021.11.07| |
-
-
-
 
 
 ## 정보올림피아드
@@ -147,9 +115,6 @@
 |53 | Dynamic Programming | 플로이드 와샬 |  -| [Python](https://github.com/terri1102/Python-Algorithm-Study/blob/main/section8(%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)/12.%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%99%80%EC%83%AC.md) | 2021.05.30| |
 
 ## Leetcode
-
-
-
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
 | :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
 |   1   | Array |  [Two Sum](https://leetcode.com/problems/two-sum/)  |  Easy | [Python](https://github.com/terri1102/algorithm_self_study/blob/main/leetcode/Array/two_sum.md) | 2021.10.08 | |
