@@ -15,6 +15,12 @@ jobs:
 
     - name: Set up jq
       run: sudo apt-get install -y jq
+    
+    - name: Debug event payload
+      run: |
+        echo "Event payload:"
+        cat $GITHUB_EVENT_PATH
+
 
     - name: Get pushed file paths
       id: get-paths
