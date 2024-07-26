@@ -20,11 +20,16 @@ jobs:
       run: |
         echo "Event payload:"
         cat $GITHUB_EVENT_PATH
-
+    
+    - name: Get changes
+      run: |
+        FILES=$(git diff --name-only -r HEAD^1 HEAD)
+        cat $FILES
 
     - name: Get pushed file paths
       id: get-paths
       run: |
+        
         FILES=$(jq -r '.commits[].added[], .commits[].modified[]' < "$GITHUB_EVENT_PATH")
         echo "FILES=$FILES" >> $GITHUB_ENV
 
