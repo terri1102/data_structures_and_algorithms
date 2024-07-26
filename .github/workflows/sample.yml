@@ -1,0 +1,35 @@
+name: Capture Pushed File Path
+
+on:
+  push:
+    paths:
+      - '**/*'
+
+jobs:
+  capture-path:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up jq
+      run: sudo apt-get install -y jq
+
+    - name: Get pushed file paths
+      id: get-paths
+      run: |
+        FILES=$(jq -r '.commits[].added[], .commits[].modified[]' < "$GITHUB_EVENT_PATH")
+        echo "FILES=$FILES" >> $GITHUB_ENV
+
+    - name: Print file paths
+      run: |
+        echo "Pushed file paths: ${{ env.FILES }}"
+
+    - name: Pass file paths to function
+      run: |
+        for file in ${{ env.FILES }}; do
+          echo "Processing file: $file"
+          # Call your function here, for example:
+          # ./your-function.sh "$file"
+        done
