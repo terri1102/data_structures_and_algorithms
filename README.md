@@ -23,9 +23,6 @@
 ### Github Action
 문제 태그, 난이도, 푼 날짜, 저지 사이트, 문제 링크, 내 풀이 링크
 
-## Data structure
-
-
 ## Baekjoon
 
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
@@ -34,8 +31,6 @@
 
 
 ## Programmers
-
-
 
 | Index | Type | Problem | Difficulty | Solution | Date | Remark |
 | :-----:|:----:| :-------: | :----------: | :--------: | :-----: | :------: |
